@@ -1,0 +1,21 @@
+{
+  "name": "rdlib-kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomer Shaiman",
+  "license": "ISC",
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "bluebird": "^3.7.1",
+    "bootleg": "^0.9.4",
+    "highland": "^2.13.5",
+    "lodash": "^4.17.15",
+    "node-rdkafka": "^2.7.3",
+    "shutdown-hook": "^1.1.5"
+  }
+}
