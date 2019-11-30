@@ -1,7 +1,7 @@
 Node-rdkafka - Node.js wrapper for Kafka C/C++ library
 ==============================================
 
-#Overview
+# Overview
 
 This project is based on the node-rdKafka Lib here :
 [https://github.com/blizzard/node-rdkafka](https://github.com/blizzard/node-rdkafka)
